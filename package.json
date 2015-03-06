@@ -1,0 +1,30 @@
+{
+  "name": "jsx4express",
+  "version": "0.0.2",
+  "description": "Express middleware to transform jsx to js at request time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "jsx",
+    "middleware",
+    "react",
+    "transform"
+  ],
+  "author": "Matt Lorey <mattlorey@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-tools": "^0.12.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yanbingbing/jsx4express"
+  },
+  "bugs": {
+    "url": "https://github.com/yanbingbing/jsx4express/issues"
+  },
+  "homepage": "https://github.com/yanbingbing/jsx4express"
+}
