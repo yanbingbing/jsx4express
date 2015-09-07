@@ -1,6 +1,6 @@
 {
   "name": "jsx4express",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Express middleware to transform jsx to js at request time",
   "main": "index.js",
   "scripts": {
